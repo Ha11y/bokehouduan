@@ -4,8 +4,8 @@ const upload = multer({
     storage :MAO({
         config:{
             region:"oss-cn-beijing",
-            accessKeyId:"LTAI5tHNneXYUxjXQW8Ye4xN",
-            accessKeySecret:"4ePUTHnNxOEbFuiJU1cnzlpITzAoDH",
+            accessKeyId:"同样是自己的",
+            accessKeySecret:"填写自己的，可以在阿里云上面注册获取",
             bucket:"bird-boke"
         },
 
